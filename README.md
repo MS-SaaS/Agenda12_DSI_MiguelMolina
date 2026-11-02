@@ -5,7 +5,7 @@ Olá professor! Até agora eu tinha me divertido... Eu estava feliz... Python er
 Brincadeiras a parte, eu realmente não gosto nem um pouco de usar HTML, mas infelizmente na vida temos que lidar com coisas que são desagrádaveis, né? Especialmente em um âmbito profissional.
 
 Já estudei HTML e CSS no passado quando estive em Portugal, então não acho díficil, mas Santo Deus como HTML é massante e chato. Definitivamente uma das piores linguagens ja criadas, na minha opinião.
-
+ 
 Enfim, chega de odiar HTML. Fiz o trabalho bem simples mas tentei deixar o código bem organizado para quando você realizar sua avaliação.
 
 Com tudo isso dito,
